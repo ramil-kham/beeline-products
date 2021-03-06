@@ -1,4 +1,4 @@
-public class BeelineProducts {
+public class BeelineProduct {
     int gb;
     int minutes;
     int sms;

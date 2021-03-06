@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        BeelineProducts closePeople1 = new BeelineProducts();
-        BeelineProducts closePeople2 = new BeelineProducts();
+        BeelineProduct closePeople1 = new BeelineProduct();
+        BeelineProduct closePeople2 = new BeelineProduct();
 
         closePeople1.gb = 15;
         closePeople1.minutes = 400;
