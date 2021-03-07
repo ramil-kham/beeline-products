@@ -5,4 +5,7 @@ public class BeelineProduct {
     int oldPricePerMonth;
     int pricePerMonth;
     int discount;
+    String eSimSupport;
+    String title;
+    String learnMore;
 }
